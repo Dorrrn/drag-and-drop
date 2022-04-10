@@ -1,4 +1,4 @@
-## React App with drag-and-drop items
+## drag-and-drop / react
 
 Small demo with functionality to drag-and-drop list-items, using react-beautiful-dnd.
 
